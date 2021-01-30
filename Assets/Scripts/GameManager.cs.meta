@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff9da638bd436234eb43a06945aecd80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverText: {instanceID: 0}
+  - gameClearText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - gameClearSE: {fileID: 8300000, guid: b80fda725b7db0142a6656d886e00141, type: 3}
+  - gameOverSE: {fileID: 8300000, guid: 7b4c1d8a640e2df4a9c1dc05cdb9bef8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
